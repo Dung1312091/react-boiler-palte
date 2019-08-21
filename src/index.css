@@ -1,0 +1,24 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body,
+html,
+#root {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  height: 100%;
+}
+
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  position: relative;
+  background-color: #424242 !important;
+  line-height: 1.5;
+  font-weight: 500;
+  font-size: 11.2px;
+  color: #acacac
+}

@@ -1,0 +1,37 @@
+.app {}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.f-a-c {
+    display: flex;
+    align-items: center
+}
+
+.f-s-b {
+    display: flex;
+    justify-content: space-between
+}
+
+a {
+    color: #b6c5ca
+}
+
+.input-base {
+    border: 1px solid #C5CAB6;
+    background-color: #303030;
+    border-radius: 5px;
+    color: #C5CAB6;
+    outline: none;
+    margin: 0 5px;
+
+}
+
+.text_underline {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #b6c5ca
+}

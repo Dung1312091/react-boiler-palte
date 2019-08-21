@@ -1,0 +1,13 @@
+.form-search {
+    &__input {
+        height: 16px;
+        width: 63px;
+        padding-left: 5px;
+        transition: 250ms;
+
+        &:focus {
+            width: 163px;
+
+        }
+    }
+}
